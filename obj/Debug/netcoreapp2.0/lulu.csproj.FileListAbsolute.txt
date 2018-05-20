@@ -1,0 +1,11 @@
+D:\c寿建林\application\lulu\bin\Debug\netcoreapp2.0\lulu.deps.json
+D:\c寿建林\application\lulu\bin\Debug\netcoreapp2.0\lulu.runtimeconfig.json
+D:\c寿建林\application\lulu\bin\Debug\netcoreapp2.0\lulu.runtimeconfig.dev.json
+D:\c寿建林\application\lulu\bin\Debug\netcoreapp2.0\lulu.dll
+D:\c寿建林\application\lulu\bin\Debug\netcoreapp2.0\lulu.pdb
+D:\c寿建林\application\lulu\obj\Debug\netcoreapp2.0\lulu.csprojAssemblyReference.cache
+D:\c寿建林\application\lulu\obj\Debug\netcoreapp2.0\lulu.csproj.CoreCompileInputs.cache
+D:\c寿建林\application\lulu\obj\Debug\netcoreapp2.0\lulu.AssemblyInfoInputs.cache
+D:\c寿建林\application\lulu\obj\Debug\netcoreapp2.0\lulu.AssemblyInfo.cs
+D:\c寿建林\application\lulu\obj\Debug\netcoreapp2.0\lulu.dll
+D:\c寿建林\application\lulu\obj\Debug\netcoreapp2.0\lulu.pdb
